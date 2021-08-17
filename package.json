@@ -1,18 +1,24 @@
 {
   "name": "posthtml-miniprogram-replace",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "posthtml plugin for miniprogram transform **ml file",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "babel",
-    "babel-plugin",
+    "node",
+    "JavaScript",
+    "posthtml",
+    "posthtml-plugin",
     "plugin",
     "replace",
     "miniProgram"
   ],
+  "bugs": {
+    "url": "https://github.com/bwy111/posthtml-miniprogram-replace/issues"
+  },
+  "homepage": "https://github.com/bwy111/posthtml-miniprogram-replace",
   "author": "baiweiye",
   "license": "ISC",
   "devDependencies": {
