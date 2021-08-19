@@ -1,4 +1,4 @@
-# babel-plugin-replace
+# posthtml-miniprogram-replace
 
 ## 介绍
 
